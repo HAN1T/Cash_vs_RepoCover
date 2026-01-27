@@ -6,7 +6,7 @@ Result are then populated on a local dashboard which identifies T+0/T+1/T+2 brea
 
 Real world cash trades would have been populated from TOMS or respective front office system, similarly financing trades would have been populated from financing system data
 
-[git1.mov](../../git1.mov)
+
 
 ## Run
 ```bash
