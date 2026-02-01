@@ -28,10 +28,10 @@ This repo demonstrates a simplified version of that process.
 - settlement timing buckets (T+0 / T+1 / T+2)
 
 3) **Displays results in a local dashboard**
-- breaks grouped by bucket (T+0/T+1/T+2) :contentReference[oaicite:4]{index=4}
+- breaks grouped by bucket (T+0/T+1/T+2)
 
 4) **Simulates an incoming feed**
-- a lightweight “stream” to mimic intraday updates (run in a second terminal) :contentReference[oaicite:5]{index=5}
+- a lightweight “stream” to mimic intraday updates (run in a second terminal)
 
 ---
 
