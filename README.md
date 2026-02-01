@@ -21,7 +21,7 @@ This repo demonstrates a simplified version of that process.
 
 1) **Generates synthetic datasets** representing:
 - cash trades/positions (front office source in real life e.g., TOMS)
-- repo/financing cover (financing system source in real life) :contentReference[oaicite:3]{index=3}
+- repo/financing cover (financing system source in real life)
 
 2) **Computes breaks** by comparing:
 - required cover (cash short) vs available repo cover
